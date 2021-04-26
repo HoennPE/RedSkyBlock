@@ -1,8 +1,5 @@
-[![](https://poggit.pmmp.io/shield.state/RedSkyBlock)](https://poggit.pmmp.io/p/RedSkyBlock)
-[![](https://poggit.pmmp.io/shield.api/RedSkyBlock)](https://poggit.pmmp.io/p/RedSkyBlock)
-[![](https://poggit.pmmp.io/shield.dl.total/RedSkyBlock)](https://poggit.pmmp.io/p/RedSkyBlock)
-
 > This is the fork repository from Poggit, master branch is messed up, so i decided to completely fork this from poggit release.
+
 > __*Quick Plugin Check:*__ RedSkyBlock is no longer in ALPHA! No bugs found in current tests: still looking. Ready for use.
 
 <img src="https://github.com/RedCraftGH/RedSkyBlock/blob/master/icon.png" width="100" height="100" align="left"></img>
