@@ -2,6 +2,7 @@
 [![](https://poggit.pmmp.io/shield.api/RedSkyBlock)](https://poggit.pmmp.io/p/RedSkyBlock)
 [![](https://poggit.pmmp.io/shield.dl.total/RedSkyBlock)](https://poggit.pmmp.io/p/RedSkyBlock)
 
+> This is the fork repository from Poggit, master branch is messed up, so i decided to completely fork this from poggit release.
 > __*Quick Plugin Check:*__ RedSkyBlock is no longer in ALPHA! No bugs found in current tests: still looking. Ready for use.
 
 <img src="https://github.com/RedCraftGH/RedSkyBlock/blob/master/icon.png" width="100" height="100" align="left"></img>
@@ -11,6 +12,7 @@ RedSkyBlock aims to be a feature rich, user-friendly SkyBlock plugin. RedSkyBloc
 
 # Discord
 Join the [Red Development](https://discord.gg/8s2sbvr) Discord for support and more.
+Join the [HoennPE Network](https://discord.gg/6QsqzYH6Jh)Discord for Skyblock Release, We are usign this plugin as our SkyIsland Core, since it supports custom islands
 
 # Installation and Support
 Installing this plugin on your server is super easy to do! Just download the RedSkyBlock.phar file from poggit and plop it into your server's plugins folder.
