@@ -9,7 +9,8 @@ RedSkyBlock aims to be a feature rich, user-friendly SkyBlock plugin. RedSkyBloc
 
 # Discord
 Join the [Red Development](https://discord.gg/8s2sbvr) Discord for support and more.
-Join the [HoennPE Network](https://discord.gg/6QsqzYH6Jh)Discord for Skyblock Release, We are usign this plugin as our SkyIsland Core, since it supports custom islands
+
+Join the [HoennPE Network](https://discord.gg/6QsqzYH6Jh) Discord for Skyblock Release, We are usign this plugin as our SkyIsland Core, since it supports custom islands
 
 # Installation and Support
 Installing this plugin on your server is super easy to do! Just download the RedSkyBlock.phar file from poggit and plop it into your server's plugins folder.
